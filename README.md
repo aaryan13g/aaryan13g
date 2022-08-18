@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaryan13g
+- 👋 Hi, I’m Aaryan Gupta @aaryan13g.
 - 👀 I’m interested in developing scalable, impactful software and playing around with the vast applications of Machine Learning.
 - 🌱 I’m currently learning more about various aspects of Data Science & Machine Learning, and their interaction with Software Development.
 - 💞️ I’m looking to collaborate on any open source projects in Python or Machine Learning.
